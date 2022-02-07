@@ -72,11 +72,11 @@ result="perfect";
 
 function display(name,age,wt,result){
 
-    if(output=="perfect"){
+    if(result=="perfect"){
         document.getElementById("output").innerHTML="Hello "+name+" your wt. is "+result;
     }
     
     else{
-document.getElementById("output").innerHTML="hello "+name+" your wt. is "+result+" than recommended value of "+wt+" at an age of "+age;
+document.getElementById("output").innerHTML="hello "+name+" your wt. is "+result+" than recommended value of "+wt+" kg at an age of "+age;
     }
 }
