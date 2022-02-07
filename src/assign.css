@@ -1,0 +1,24 @@
+.container{
+    margin-top: 100px;
+    margin-left: 150px;
+}
+
+.container label{
+    font-size: large;
+}
+
+body{
+    background-color: blanchedalmond;
+}
+
+.container input{
+
+    font-size: large;
+    margin-left: 25px;
+}
+
+#btn button{
+   font-size: 30px;
+
+}
+
